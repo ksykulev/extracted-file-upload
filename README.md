@@ -1,7 +1,7 @@
 # Extracted-file-upload
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Currently using pretender to mock the sign requst. Check app/app.js for details. If you wish to use pretender replace the relevant details in the response json. 
+
 
 ## Prerequisites
 
